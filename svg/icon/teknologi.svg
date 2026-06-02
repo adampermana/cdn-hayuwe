@@ -1,15 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_118_418)">
-<path d="M3 5H9V19H3V5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 9H22V16H12V9Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M14 19H20" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17 16V19" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6 13V13.01" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6 16V16.01" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<defs>
-<clipPath id="clip0_118_418">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" xmlns:v="https://vecta.io/nano"><g clip-path="url(#A)" stroke="#000" stroke-width="2" stroke-linejoin="round"><path d="M3 5h6v14H3V5zm9 4h10v7H12V9z"/><g stroke-linecap="round"><path d="M14 19h6"/><path d="M17 16v3M6 13v.01M6 16v.01"/></g></g><defs><clipPath id="A"><path fill="#fff" d="M0 0h24v24H0z"/></clipPath></defs></svg>
