@@ -1,3 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 4.25C7.72 4.25 4.25 7.28 4.25 11C4.25 12.73 5.02 14.31 6.28 15.5C6.44 15.65 6.51 15.87 6.45 16.08L5.95 18.05C5.85 18.44 6.23 18.78 6.6 18.62L8.72 17.73C8.9 17.65 9.11 17.66 9.29 17.74C10.13 18.13 11.05 18.35 12 18.35C16.28 18.35 19.75 15.32 19.75 11.6C19.75 7.88 16.28 4.25 12 4.25Z" stroke="black" stroke-opacity="0.7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" xmlns:v="https://vecta.io/nano"><path d="M12 4.25c-4.28 0-7.75 3.03-7.75 6.75 0 1.73.77 3.31 2.03 4.5.16.15.23.37.17.58l-.5 1.97c-.1.39.28.73.65.57l2.12-.89c.18-.08.39-.07.57.01.84.39 1.76.61 2.71.61 4.28 0 7.75-3.03 7.75-6.75S16.28 4.25 12 4.25z" stroke="#000" stroke-opacity=".7" stroke-width="1.8" stroke-linejoin="round"/></svg>
